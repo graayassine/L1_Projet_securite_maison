@@ -1,1 +1,17 @@
 # L1_Projet_securite_maison
+![IMG_2146](https://github.com/user-attachments/assets/8a179703-d3ef-46bf-a64e-659647569a82)
+# Description
+ Système de sécurité autonome avec détection PIR, actionneurs et notifications LoRaWAN.
+ Détecter les intrusions via  capteurs PIR
+  , actionner des servos (fenêtres) et alarme (buzzer/LED)
+ et envoyer des alertes sur smartphone via LoRaWAN
+ # Composants et materiels 
+ Arduino UCA , Capteur PIR , Servo-moteur , LED + Résistance , Buzzer , Breadboard 
+ 
+ # Branchement et realisation
+ <img width="596" alt="schema_tinker" src="https://github.com/user-attachments/assets/d0e772a3-8cb8-410a-a24d-4bc08d1622e0" /> 
+ 
+ # Architecture du systeme 
+<img width="529" alt="Capture d’écran 2025-05-29 235318" src="https://github.com/user-attachments/assets/d5eb1913-485f-44a6-96b7-2c3d2a3f65e5" />
+
+
