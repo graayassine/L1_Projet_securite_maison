@@ -1,4 +1,6 @@
 # L1_Projet_securite_maison
+Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licence 1 à l'Université COTE D'AZUR Campus Valrose au FABLAB 
+
 ![IMG_2146](https://github.com/user-attachments/assets/8a179703-d3ef-46bf-a64e-659647569a82)
 # Description
  Système de sécurité autonome avec détection PIR, actionneurs et notifications LoRaWAN.
